@@ -121,7 +121,3 @@ const christianPaul = {
 <div align="center">
   
 **💡 Fun Fact:** I believe every bug is just an undocumented feature waiting to be discovered! 🐛✨
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=MendozaCPE&icon=6&color=6)
-
-</div>
