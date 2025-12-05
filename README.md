@@ -27,7 +27,7 @@ const developer = {
     education: "Information Technology Student",
     location: "Philippines 🇵🇭",
     focus: ["Full Stack Development", "Web Technologies", "Open Source"],
-    currentlyLearning: ["Java", "Python", "JavaScript ES6+"],
+    currentlyLearning: ["React", "Tailwind CSS", "JavaScript ES6+"],
     funFact: "I turn caffeine into code ☕💻"
 };
 ```
@@ -61,14 +61,12 @@ Design        → Figma · Canva
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MendozaCPE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MendozaCPE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-<img width="100%" src="https://streak-stats.demolab.com?user=MendozaCPE&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+<a href="https://github.com/MendozaCPE"><img src="https://github-readme-stats.vercel.app/api?username=MendozaCPE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" /></a>
+<a href="https://github.com/MendozaCPE"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MendozaCPE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top Languages" /></a>
+<a href="https://github.com/MendozaCPE"><img src="https://streak-stats.demolab.com?user=MendozaCPE&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></a>
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MendozaCPE&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<a href="https://github.com/MendozaCPE"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MendozaCPE&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" /></a>
 
 </div>
 
