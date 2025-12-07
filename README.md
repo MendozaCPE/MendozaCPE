@@ -91,7 +91,7 @@ Design        → Figma · Canva
 
 <div align="center">
 
-**Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) • **LinkedIn:** [Christian Paul Mendoza](https://www.linkedin.com/in/christian-paul-mendoza-73335530a/)
+**Portfolio:** [your-portfolio-link.com](https://my-portfolio-n8pm.onrender.com/) • **LinkedIn:** [Christian Paul Mendoza](https://www.linkedin.com/in/christian-paul-mendoza-73335530a/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 
