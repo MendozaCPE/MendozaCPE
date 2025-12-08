@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;IT+Student;Full+Stack+Enthusiast;Code+%2B+Music+%3D+%F0%9F%9A%80" alt="Typing SVG" />
 
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="[https://your-portfolio-link.com](https://my-portfolio-n8pm.onrender.com/)" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="40" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/christian-paul-mendoza-73335530a/" target="_blank">
