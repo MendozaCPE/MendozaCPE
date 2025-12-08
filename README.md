@@ -27,8 +27,7 @@ const developer = {
     education: "Information Technology Student",
     location: "Philippines 🇵🇭",
     focus: ["Full Stack Development", "Web Technologies", "Open Source"],
-    currentlyLearning: ["React", "Tailwind CSS", "JavaScript ES6+"],
-    funFact: "I turn caffeine into code ☕💻"
+    currentlyLearning: ["React", "Tailwind CSS", "JavaScript ES6+"]
 };
 ```
 
@@ -38,7 +37,7 @@ IT student passionate about building modern web applications and exploring new t
 
 **🎯 Current Focus:**
 - Building full-stack applications
-- Mastering Java & Python
+- Learning to make creative design
 - Learning React.js ecosystem
 - Contributing to open source
 
