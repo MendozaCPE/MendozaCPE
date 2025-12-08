@@ -38,7 +38,7 @@ IT student passionate about building modern web applications and exploring new t
 **🎯 Current Focus:**
 - Building full-stack applications
 - Learning to make creative design
-- Learning React.js ecosystem
+- Learning React.js and Tailwind Css ecosystem
 - Contributing to open source
 
 ---
@@ -90,7 +90,7 @@ Design        → Figma · Canva
 
 <div align="center">
 
-**Portfolio:** [your-portfolio-link.com](https://my-portfolio-n8pm.onrender.com/) • **LinkedIn:** [Christian Paul Mendoza](https://www.linkedin.com/in/christian-paul-mendoza-73335530a/)
+**Portfolio:** [My Porfolio](https://my-portfolio-n8pm.onrender.com/) • **LinkedIn:** [Christian Paul Mendoza](https://www.linkedin.com/in/christian-paul-mendoza-73335530a/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 
