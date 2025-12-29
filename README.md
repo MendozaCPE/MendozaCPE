@@ -85,10 +85,6 @@ IT student passionate about building modern web applications and exploring new t
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MendozaCPE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=MendozaCPE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MendozaCPE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MendozaCPE&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
